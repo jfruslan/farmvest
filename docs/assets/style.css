@@ -703,7 +703,7 @@ body.locked > .body__shadow {
 }
 @media (max-width: 37.5rem) {
   .hero__decor-item {
-    opacity: 0.2;
+    opacity: 0.4;
   }
 }
 
