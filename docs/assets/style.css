@@ -661,12 +661,12 @@ body.locked > .body__shadow {
 }
 @media (max-width: 120rem) {
   .hero__container {
-    padding-top: calc(7.5rem + 8.1875 * (100vw - 23.75rem) / 96.25);
+    padding-top: calc(9.375rem + 6.3125 * (100vw - 23.75rem) / 96.25);
   }
 }
 @media (max-width: 23.75rem) {
   .hero__container {
-    padding-top: calc(6.875rem + 0.625 * (100vw - 20rem) / 3.75);
+    padding-top: calc(8.4375rem + 0.9375 * (100vw - 20rem) / 3.75);
   }
 }
 
@@ -675,12 +675,12 @@ body.locked > .body__shadow {
 }
 @media (max-width: 120rem) {
   .hero__hed-title {
-    margin-bottom: calc(2.8125rem + 1.5 * (100vw - 23.75rem) / 96.25);
+    margin-bottom: calc(3.125rem + 1.1875 * (100vw - 23.75rem) / 96.25);
   }
 }
 @media (max-width: 23.75rem) {
   .hero__hed-title {
-    margin-bottom: calc(2.5rem + 0.3125 * (100vw - 20rem) / 3.75);
+    margin-bottom: calc(3.4375rem + -0.3125 * (100vw - 20rem) / 3.75);
   }
 }
 
@@ -703,7 +703,7 @@ body.locked > .body__shadow {
 }
 @media (max-width: 37.5rem) {
   .hero__decor-item {
-    opacity: 0.5;
+    opacity: 0.2;
   }
 }
 
